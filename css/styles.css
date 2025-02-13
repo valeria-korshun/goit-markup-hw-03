@@ -116,10 +116,6 @@ address {
 
 /* #region hero */
 
-.hero-content {
-  padding-top: 188px;
-  padding-bottom: 188px;
-}
 .hero {
   background-color: #2e2f42;
   padding-top: 188px;
@@ -231,7 +227,7 @@ address {
 .team-list-item-photo {
 }
 .employee {
-  padding: padding: 32px 0 32px;
+  padding: 32px 0 32px;
 }
 .team-list-item-name {
   font-family: 'Roboto', sans-serif;
